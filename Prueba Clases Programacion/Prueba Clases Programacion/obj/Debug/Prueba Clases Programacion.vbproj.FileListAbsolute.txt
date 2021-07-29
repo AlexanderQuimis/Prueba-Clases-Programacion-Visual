@@ -1,0 +1,14 @@
+D:\ESPE\Segundo Semestre\Programacion Visual\Prueba\Prueba Clases Programacion\Prueba Clases Programacion\bin\Debug\Prueba Clases Programacion.exe.config
+D:\ESPE\Segundo Semestre\Programacion Visual\Prueba\Prueba Clases Programacion\Prueba Clases Programacion\bin\Debug\Prueba Clases Programacion.exe
+D:\ESPE\Segundo Semestre\Programacion Visual\Prueba\Prueba Clases Programacion\Prueba Clases Programacion\bin\Debug\Prueba Clases Programacion.pdb
+D:\ESPE\Segundo Semestre\Programacion Visual\Prueba\Prueba Clases Programacion\Prueba Clases Programacion\bin\Debug\Prueba Clases Programacion.xml
+D:\ESPE\Segundo Semestre\Programacion Visual\Prueba\Prueba Clases Programacion\Prueba Clases Programacion\obj\Debug\Prueba Clases Programacion.vbprojResolveAssemblyReference.cache
+D:\ESPE\Segundo Semestre\Programacion Visual\Prueba\Prueba Clases Programacion\Prueba Clases Programacion\obj\Debug\Prueba_Clases_Programacion.Clientes.resources
+D:\ESPE\Segundo Semestre\Programacion Visual\Prueba\Prueba Clases Programacion\Prueba Clases Programacion\obj\Debug\Prueba_Clases_Programacion.Empleados.resources
+D:\ESPE\Segundo Semestre\Programacion Visual\Prueba\Prueba Clases Programacion\Prueba Clases Programacion\obj\Debug\Prueba_Clases_Programacion.Form1.resources
+D:\ESPE\Segundo Semestre\Programacion Visual\Prueba\Prueba Clases Programacion\Prueba Clases Programacion\obj\Debug\Prueba_Clases_Programacion.Resources.resources
+D:\ESPE\Segundo Semestre\Programacion Visual\Prueba\Prueba Clases Programacion\Prueba Clases Programacion\obj\Debug\Prueba_Clases_Programacion.Principal.resources
+D:\ESPE\Segundo Semestre\Programacion Visual\Prueba\Prueba Clases Programacion\Prueba Clases Programacion\obj\Debug\Prueba Clases Programacion.vbproj.GenerateResource.Cache
+D:\ESPE\Segundo Semestre\Programacion Visual\Prueba\Prueba Clases Programacion\Prueba Clases Programacion\obj\Debug\Prueba Clases Programacion.exe
+D:\ESPE\Segundo Semestre\Programacion Visual\Prueba\Prueba Clases Programacion\Prueba Clases Programacion\obj\Debug\Prueba Clases Programacion.xml
+D:\ESPE\Segundo Semestre\Programacion Visual\Prueba\Prueba Clases Programacion\Prueba Clases Programacion\obj\Debug\Prueba Clases Programacion.pdb
